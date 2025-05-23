@@ -69,3 +69,18 @@
     height: 100%;
     border: none;
   }
+
+  .image-fixe-haut-droite{
+  position: fixed;
+  top: 40px ;
+  right: 30px;
+  width: 200px;
+
+ }
+
+ .qr-texte {
+  color: white;
+  font-size: 14px;
+  text-align: right;
+  margin-top: 5px;
+}
